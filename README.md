@@ -104,6 +104,19 @@ The workflow generates several outputs:
 
 ---
 
+## Example Results
+
+### PCA of RNA-seq samples
+![PCA](results/pca_plot.png)
+
+### Heatmap of top variable genes
+![Heatmap](results/heatmap_top_genes.png)
+
+### Volcano plot of differential expression
+![Volcano](results/volcano_plot.png)
+
+
+
 ## Author
 
 **Diana Gutiérrez Martínez**
